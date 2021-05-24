@@ -17,7 +17,6 @@ The system when turned on displays officer 1 on LCD. The polling officer then en
 correct then the n display is updated to officer 2 and so on and finally Presiding officer enters his code. 
 Each person is allowed 2 retries – if there is a failure the voting is blocked.
 The voting interface for the user will be as follows
-![Design Problem](https://user-images.githubusercontent.com/42579315/119333134-26b6b300-bca7-11eb-8825-9035d1c13925.jpg)
 
 ![image](https://user-images.githubusercontent.com/42579315/119333032-04bd3080-bca7-11eb-8518-629e26896e3e.png)
 
